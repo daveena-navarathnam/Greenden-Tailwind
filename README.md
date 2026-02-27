@@ -130,4 +130,5 @@ Smooth hover transitions
 This project was developed as part of academic coursework to demonstrate frontend development proficiency and understanding of modern CSS frameworks.
 
 👨‍💻 Author
+
 Daveena Navarathnam
